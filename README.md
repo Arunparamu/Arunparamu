@@ -31,7 +31,7 @@ I'm a runner and also a former Kho-Kho player who loves the thrill of competitio
 
 ### 🏆 Certifications & Awards:
 - Certifications in Java, SQL, and Python from **HackerRank**
-- Solved **480+ problems** on LeetCode during my **100 days of problem-solving**
+- Solved **600+ problems** on LeetCode during my **100 days of problem-solving**
 - Runner in Kho-Kho at Dr. Mahalingam College of Engineering and Technology
 
 ---
